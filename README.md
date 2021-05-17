@@ -1,5 +1,5 @@
 # PYTHON
-Files attached are assignments for CS1110 (Introduction to Computing Using Python) at Cornell. 
+Files attached are assignments for CS1110 (Introduction to Computing Using Python) course at Cornell University. 
 
 ## Assignment a4:
 This assignment is designed to help you understand the following concepts.
